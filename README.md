@@ -9,7 +9,7 @@ products:
 description: "This sample demonstrates aa tiny Hello World Node.js app for Azure App Service."
 ---
 
-# Node.js Hello Worlddd
+# Node.js Hello World
 
 This sample demonstrates aa tiny Hello World node.js app for [App Service Web App](https://docs.microsoft.com/azure/app-service-web).
 
